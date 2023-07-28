@@ -16,7 +16,9 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
+# L'opinione pubblica italiana e la guerra in Ucrania {-}
 
+![](Images/Ucrania.jpeg)
 
 
 
