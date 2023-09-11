@@ -12,7 +12,7 @@ L’esame dell’andamento della guerra nell’opinione degli intervistati è st
 
 ## Principali risultati
 
-### Esito del conflitto: chi vincerà?
+### IV.1 Esito del conflitto: chi vincerà?
 
 *	Quando si chiede contemporaneamente agli intervistati chi stia attualmente vincendo la guerra e chi si pensa che vincerà il conflitto, si ottengono risultati sensibilmente diversi
 
@@ -33,9 +33,9 @@ A Marzo 2022 il 28% degli intervistati Ipsos credeva che la Russia stesse vincen
 
 Dalla serie EMG svoltasi a Maggio si evince che maggioranze crescenti prospettano il ricorso a un compromesso tra le parti. Se a metà Maggio il 44% degli intervistati EMG prevede il ricorso a una soluzione diplomatica per porre fine al conflitto bellico, alla fine di Maggio il 57% degli intervistati si augura un compromesso che possa mettere d’accordo i diversi schieramenti. È interessante osservare come, allo stesso tempo, a decrescere non sia il numero di coloro che sostengono convintamente la vittoria militare e schiacciante di uno dei due schieramenti – Russo o Ucraino che sia – bensì il fronte degli indecisi: il 17-19 Maggio il 42% degli intervistati EMG preferivano non rispondere alla domanda. A fine maggio la stessa opzione è scelta solamente dal 24% degli intervistati. Si rinforza anche se in misura ridotta e dopo un breve e leggero declino, all’opposto, il fronte di chi crede che la guerra si concluderà con la vittoria di una delle due parti.
 
-### Escalation
+### IV.2 Escalation
 
-#### *Escalation: Rischio guerra nucleare*
+#### IV.2.1 *Escalation: Rischio guerra nucleare*
 
 *	La preoccupazione per unapossibile escalation nucleare è diminuita nel tempo, con differenze significative di preoccupazione a seconda che venga nominata direttamente o meno l’espressione *“guerra atomica”*.
 
@@ -46,7 +46,7 @@ Si osservi però come ad Ottobre, e solo da Ottobre, la preoccupazione per un co
 
 Il *wording* sembra avere un effetto sulle risposte: quando la domanda usa il termine “bomba atomica”, ovvero “guerra atomica”, le percentuali di intervistati che si dimostrano preoccupati di un eventuale escalation si riduce di molto rispetto a quando si usa “conflitto nucleare”: ad Aprile il 34% e ad Ottobre il 43% degli intervistati del Termometro Politico ritengono probabile o possibile una guerra nucleare.
 
-#### *Escalation: Terza guerra mondiale e No fly zone*
+#### IV.2.2 *Escalation: Terza guerra mondiale e No fly zone*
 
 * Anche la preoccupazione per una escalation su scala mondiale del conflitto decresce nel tempo: maggioranze gradualmente più consistenti si convincono che il conflitto rimarrà nei confini dei due paesi. 
 
@@ -54,7 +54,7 @@ A Marzo 2022 solo il 29% degli intervistati IPSOS ritiene che il conflitto non t
 
 Questo trend è confermato dalla serie continuata IPSOS che da marzo ad Ottobre indaga l’opinione pubblica circa i rischi di una degenerazione del conflitto: se a Marzo 2022 il 24% degli intervistati ritiene plausibile che il conflitto russo-ucraino degeneri in una guerra mondiale, a Settembre la stessa opinione è condivisa solo dall’11% della popolazione. Parimenti: a Marzo 2022 il 26% degli intervistati ritiene che il conflitto rimarrà confinato nei confini dei due paesi belligeranti, a Settembre la stessa posizione è sostenuta da ben il 39% degli intervistati. Si consideri, infine, che come per il paragrafo precedente ad Ottobre si osservano valori contrastanti con i trend registrati durante i 9 mesi precedenti: le percentuali delle rispettive posizioni aumentano e diminuiscono ritornando (ovvero, riavvicinandosi) alle stime di Marzo: solo il 26% degli intervistati il 5-6 Ottobre ritiene che il conflitto resterà isolato nei confini dei due paesi in guerra; il 20% degli intervistati l’11 e il 12 Ottobre ritengono invece di nuovo plausibile un conflitto su scala mondiale.
 
-### A quali condizioni finire il conflitto e quale possibilità di negoziati
+### IV.3 A quali condizioni finire il conflitto e quale possibilità di negoziati
 
 * Quando si chiede agli intervistati le condizioni con cui finire il conflitto, maggioranze solide nel tempo ritengono che l’Ucraina debba fare delle concessioni alla Russia e il compromesso rimane costantemente l’opzione favorita.
 
@@ -64,7 +64,7 @@ Proprio il tema della cessione di territori ucraini alla Russia incontra nel tem
 
 Allo stesso tempo maggioranze rilevanti si augurano un compromesso tra le parti al fine di porre termine, nel minor tempo possibile, al conflitto in atto. Ad Aprile il 56% degli intervistati di Euromedia Research credono che il compromesso tra le parti sia l’obiettivo sul quale puntare, sempre ad Aprile il 55% del campione di EMG dichiara che l’Europa dovrebbe in tutti modi promuovere la trattiva diplomatica, la stessa opzione è favorita dal 62% degli intervistati Ipsos a Maggio, sempre a Maggio il 62% degli intervistati EMG credono che una soluzione diplomatica sia possibile (in tempi lunghi e in tempi brevi), infine, anche ad Ottobre il 54% del campione ascoltato dal Proger IndexResearch auspicano un compromesso mediato tra Putin e le forze politico – istituzionali dell’Occidente.
 
-### Durata conflitto
+### IV.4 Durata conflitto
 
 *	Quando si chiede agli intervistati una stima della durata del conflitto, salvo un primo momento, si osserva una certa stabilità nella distribuzione delle preferenze, con effetti interessanti dovuti al numero di opzioni a disposizione da parte degli intervistati.
 
