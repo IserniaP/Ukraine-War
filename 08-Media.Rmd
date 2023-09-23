@@ -2,15 +2,13 @@
 
 ## Formulazione delle domande 
 
-La percezione del ruolo dei Media da parte dell’opinione pubblica italiana è stata affrontata da molteplici punti di vista. È possibile distinguere le domande poste agli intervistati prevalentemente sulla base dell’oggetto indagato, ovvero sulla frequenza temporale con cui queste siano state poste. In funzione del contenuto possiamo distinguere pertanto:
+La percezione del ruolo dei Media da parte dell’opinione pubblica italiana è stata affrontata da almeno tre diversi punti di vista:
 
 * a) Domande che indagano il grado di informazione sulla guerra degli intervistati. Queste domande offrono altresì uno spaccato dell’opinione pubblica sull’efficacia dei media nel raccontare e seguire le fasi del conflitto, sulla capillarità dell’informazione ovvero sull’interesse diffuso nella popolazione a seguire le stesse vicende. 
 
-* b) Domande che ricercano l’opinione degli intervistati sull’opportunità di pubblicare e diffondere immagini sensibili, come il massacro di Bucha. Queste domande indagano altresì il ruolo che i media dovrebbero avere e la condotta che dovrebbero tenere per l’opinione pubblica: agendo da filtro sulla realtà, ovvero trasmettendo con fedele trasparenza i fatti così come questi si presentano. 
+* b) Domande che sondano l’opinione degli intervistati sull’opportunità di pubblicare e diffondere immagini sensibili, come il massacro di Bucha. Queste domande indagano altresì il ruolo che i media dovrebbero avere e la condotta che dovrebbero tenere per l’opinione pubblica: agendo da filtro sulla realtà, ovvero trasmettendo con fedele trasparenza i fatti così come questi si presentano. 
 
-* c) Domande che indagano l’opinione degli intervistati sul grado di indipendenza (o partigianeria) dei media, sul ruolo che hanno avuto e che continuano ad avere nella formazione dell’opinione pubblica e, infine, sulla qualità dell’informazione. All’interno di queste tre categorie possono essere fatti ricondurre altresì i sondaggi posti in serie continuata nel tempo del punto d).
-
-* d) Domande poste ripetutamente nel tempo. Rilevano qua particolarmente i sondaggi IPSOS sul giudizio sull’informazione e sul suo grado di indipendenza-partigianeria, domande sull’opportunità o meno di dare visibilità ad esponenti ufficiali russi. 
+* c) Domande che indagano l’opinione degli intervistati sul grado di indipendenza (o partigianeria) dei media, sul ruolo che hanno avuto e che continuano ad avere nella formazione dell’opinione pubblica e, infine, sulla qualità dell’informazione. 
 
 ## Principali risultati
 
@@ -38,4 +36,3 @@ La serie Ipsos, da Marzo 2022 a Luglio 2022, indaga l’opinione pubblica sul ru
 Queste dinamiche si inscrivono in un contesto, quello italiano, dove la maggioranza degli intervistati nel corso del tempo si dichiara comunque molto o abbastanza informato – il 69% nel campione intervistato Demos&PI e Demetra ad Aprile 2022 – ovvero molto o in parte informato – il 72% nell’indagine IPSOS di marzo.
 
 [Appendice](https://github.com/LucianaFazio/Ucrania/blob/main/PDF_Appendice/VIII.%20Ruolo%20dei%20media.pdf)
-
