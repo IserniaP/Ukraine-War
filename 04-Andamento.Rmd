@@ -2,13 +2,13 @@
 
 ## Formulazione delle domande
 
-L’esame dell’andamento della guerra nell’opinione degli intervistati è stato condotto da molteplici punti di vista. Possiamo distinguere le domande rivolte agli intervistati su questi temi prevalentemente sulla base del contenuto della domanda e, all’interno di classi divise per contenuto, è possibile altresì distinguere le domande in funzione del formato dell’indagine
+L’esame dell’andamento della guerra nell’opinione degli intervistati è stato condotto da molteplici punti di vista. Possiamo distinguere le domande rivolte agli intervistati su questi temi prevalentemente sulla base del contenuto della domanda e, all’interno di classi divise per contenuto, è possibile altresì distinguere le domande in funzione del formato dell’indagine.
 
-* a) Il contenuto della domanda diversifica sensibilmente i sondaggi tra di loro. Alcune domande cercano di accertare il vincitore attuale e futuro del conflitto, mentre altre domande indagano i pericoli avvertiti dagli intervistati circa possibili escalation, ovvero le considerazioni circa la durata effettiva della guerra o, ancora le condizioni per porvi fine.
+* Il contenuto della domanda diversifica sensibilmente i sondaggi tra di loro. Alcune domande cercano di accertare il vincitore attuale e futuro del conflitto, mentre altre domande indagano i pericoli avvertiti dagli intervistati circa possibili escalation, ovvero le considerazioni circa la durata effettiva della guerra o, ancora le condizioni per porvi fine.
 
-* b) Un secondo aspetto attiene al formato della domanda e ciò rileva particolarmente all’interno di ogni classe divisa per contenuto. Ad esempio, quando si indaga su chi sono i vincitori attuali e quelli presunti in futuro, si osservano differenze significative a seconda di come la domanda venga posta. Ciò è vero anche quando si esplorano le preoccupazioni di escalation: Il *wording* nel sondaggio sembra avere un effetto sulle risposte.
+* Un secondo aspetto attiene al formato della domanda e ciò rileva particolarmente all’interno di ogni classe divisa per contenuto. Ad esempio, quando si indaga su chi sono i vincitori attuali e quelli presunti in futuro, si osservano differenze significative a seconda di come la domanda venga posta. Ciò è vero anche quando si esplorano le preoccupazioni di escalation: Il *wording* nel sondaggio sembra avere un effetto sulle risposte.
 
-* c) Infine, un terzo aspetto è quello della comparabilità delle domande nel tempo. Sebbene la maggior parte delle domande siano state poste solo *una tantum* dai vari istituti di sondaggio – il che complica un’eventuale analisi dell’andamento dell’opinione pubblica degli italiani nel tempo –  si ritrovano, soprattutto circa il vincitore del conflitto, serie continuative nel tempo.
+* Infine, un terzo aspetto è quello della comparabilità delle domande nel tempo. Sebbene la maggior parte delle domande siano state poste solo *una tantum* dai vari istituti di sondaggio – il che complica un’eventuale analisi dell’andamento dell’opinione pubblica degli italiani nel tempo –  si ritrovano, soprattutto circa il vincitore del conflitto, serie continuative nel tempo.
 
 ## Principali risultati
 
@@ -46,13 +46,13 @@ La serie continuata IPSOS conferma e rafforza quanto detto: a Marzo 2022 il 31% 
 
 Si osservi però come da Ottobre la preoccupazione per un conflitto nucleare ritorni nuovamente predominante nell’opinione pubblica: il 30% degli intervistati l’11 e il 12 Ottobre 2022 dichiarano molto o abbastanza probabile un ricorso ad armi nucleari (valori identici a quelli di Marzo), allo stesso tempo anche il fronte di chi crede poco o per nulla probabile un conflitto nucleare ritorna ai valori di Marzo attestandosi attorno al 40% degli intervistati.
 
-Il *wording* sembra avere un leggero effetto sulle risposte: quando la domanda usa il termine “bomba atomica”, ovvero “guerra atomica”, le percentuali di intervistati che si dimostrano preoccupati di un eventuale escalation si riduce di molto rispetto a quando si usa “conflitto nucleare”: ad Aprile il 34% e ad Ottobre il 43% degli intervistati del Termometro Politico ritengono probabile o possibile una guerra nucleare.
+Il *wording* sembra avere un leggero effetto sulle risposte: quando la domanda usa il termine “bomba atomica”, ovvero “guerra atomica”, le percentuali di intervistati che si dimostrano preoccupati di un eventuale escalation si riduce rispetto a quando si usa “conflitto nucleare”: ad Aprile il 34% e ad Ottobre il 43% degli intervistati del Termometro Politico ritengono probabile o possibile una guerra nucleare.
 
 Quando si indaga la preoccupazione che l'evento atomico avvenga e non più la sua probabilità di accadimento, robuste maggioranze assolute si dichiarano preoccupate per un'eventuale escalation nucleare. Ciò è ravvisabile non solo nella serie continuata EMG condotta tra aprile e maggio 2022, ma anche nelle domande poste a febbraio 2023: per EMG (27 febbraio 2023) il 69% degli intervistati si dichiara molto o abbastanza preoccupato per un'eventuale escalation nucleare, per Demopolis (21-22 febbraio 2023) il 68% degli intervistati conferma tale preoccupazione. 
 
 #### IV.2.2 *Escalation: Terza guerra mondiale e No fly zone*
 
-* Anche la preoccupazione per una escalation su scala mondiale del conflitto decresce nel tempo: maggioranze gradualmente più consistenti si convincono che il conflitto sarà limitato ai confini dei due paesi. 
+* Anche la preoccupazione per una escalation su scala mondiale del conflitto decresce nel tempo: maggioranze gradualmente più consistenti si convincono che il conflitto sarà limitato dei due paesi. 
 
 A Marzo 2022 solo il 29% degli intervistati IPSOS ritiene che il conflitto non travalicherà i confini dei due paesi coinvolti, ad Aprile 2022 circa il 40% degli intervistati DemosPi & Demetra e EMG si confermano convinti che il conflitto non coinvolgerà nessun altro paese al di fuori di Ucraina e Russia. Si segnala altresì che nell’eventualità di una *no fly zone* a Marzo dello stesso anno per l’83% degli intervistati Demopolis ritiene che si correrebbe il pericolo di un allargamento della guerra su scala mondiale.
 
@@ -72,13 +72,13 @@ Allo stesso tempo maggioranze rilevanti si augurano un compromesso tra le parti 
 
 *	Fatte eccezione per i primi mesi della guerra, si osservano maggioranze stabili nel corso del tempo nella distribuzione delle preferenze circa la durata del conflitto, con effetti interessanti dovuti al numero di opzioni a disposizione da parte degli intervistati.
 
-A Marzo 2022 il 21% degli intervistati EMG riteneva che il conflitto si sarebbe concluso nel giro di poche settimane, a Maggio dellos tesso anno tale percentuale si riduce a cifre sempre inferiori al 10% degli intervistati, fino a toccare la percentuale minima nel sondaggio del 12 Maggio 2022: 3%.
+A Marzo 2022 il 21% degli intervistati EMG riteneva che il conflitto si sarebbe concluso nel giro di poche settimane, a Maggio dello stesso anno tale percentuale si riduce a cifre sempre inferiori al 10% degli intervistati, fino a toccare la percentuale minima nel sondaggio del 12 Maggio 2022: 3%.
 
 È utile osservare altresì come, nell’eventualità in cui agli intervistati siano date più opzioni di scelta la percentuale di coloro che non sa o non si vuole esprimere sia sensibilmente contenuta: nel sondaggio dell’11-12 aprile 2022 di Demos&Pi Demetra con cinque opzioni solo il 9% non prende una posizione; nei sondaggi EMG dal 5 al 26 maggio 2022 con tre opzioni preferibili, circa il 30% degli intervistati preferisce non esporsi. Tali effetti tendono però a ridursi con il passare dei mesi: i sondaggi posti ad inizio 2023 confermano questo trend.
 
 *	Maggioranze crescenti nel tempo ritengono che il conflitto durerà qualche anno. 
 
-Una serie IPSOS indaga le opinioni degli intervistati da marzo 2022 ad ottobre 2022: se a marzo il 24% del campione ritiene che il conflitto durerà un anno o più, ad ottobre la stessa opinione è sostenuta da 36% degli intervistati, consequenzialmente chi crede che il conflitto durerà solo alcuni mesi progressivamente si riduce: dal 46% del campione a 34%.
+Una serie IPSOS indaga le opinioni degli intervistati da marzo ad ottobre 2022: se a marzo il 24% del campione ritiene che il conflitto durerà un anno o più, ad ottobre la stessa opinione è sostenuta da 36% degli intervistati, consequenzialmente chi crede che il conflitto durerà solo alcuni mesi progressivamente si riduce: dal 46% del campione a 34%.
 
 Infine, nei sondaggi del 2023 si osservano maggioranze assolute e stabili nel tempo che ritengono che il conflitto durerà ancora diversi mesi/anni: il 61% degli intervistati IPSOS il 21-23 febbraio 2023 ritiene che il conflitto durerà circa un anno o diversi anni, il 75% degli intervistati Euromedia Research il 21 febbraio 2023 vedono "lontana" la fine del conflitto.
 
