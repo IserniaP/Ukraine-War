@@ -1,7 +1,7 @@
 --- 
 title: "L'opinione pubblica italiana e la guerra in Ucraina"
 author: "Pierangelo Isernia, Claudio Cozzi Fucile, Sergio Martini"
-date: "`r Sys.Date()`"
+date: "`r Sys.Date()`" 
 cover-image: Images/Ucrania.jpeg
 site: bookdown::bookdown_site
 documentclass: book
