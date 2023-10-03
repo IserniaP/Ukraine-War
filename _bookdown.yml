@@ -1,5 +1,7 @@
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Capitolo"
+    chapter_name: "Capitolo "
     appendix_name: "Appendice"
+    bibliography_name: "Bibliografia"
+
