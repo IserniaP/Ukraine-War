@@ -12,11 +12,5 @@ pre {
 pre code {
   white-space: inherit;
 }
-.book .book-body .page-wrapper .page-inner section.normal a {
-    color: #4183c4;
-    text-decoration: none;
-    background: 0 0;
-    font-size: 30px;
-}
 
 
