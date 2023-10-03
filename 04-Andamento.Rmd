@@ -83,4 +83,4 @@ Una serie IPSOS indaga le opinioni degli intervistati da marzo ad ottobre 2022: 
 Infine, nei sondaggi del 2023 si osservano maggioranze assolute e stabili nel tempo che ritengono che il conflitto durerà ancora diversi mesi/anni: il 61% degli intervistati IPSOS il 21-23 febbraio 2023 ritiene che il conflitto durerà circa un anno o diversi anni, il 75% degli intervistati Euromedia Research il 21 febbraio 2023 vedono "lontana" la fine del conflitto.
 
 
-[Appendice](https://github.com/LucianaFazio/Ucrania/blob/main/PDF_Appendice/IV.%20La%20guerra%20e%20il%20suo%20andamento%20v.4.pdf)
+[**APPENDICE**](https://github.com/LucianaFazio/Ucrania/blob/main/PDF_Appendice/IV.%20La%20guerra%20e%20il%20suo%20andamento%20v.4.pdf)

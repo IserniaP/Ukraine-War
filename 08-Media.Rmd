@@ -35,4 +35,4 @@ La serie Ipsos, da Marzo 2022 a Luglio 2022, indaga l’opinione pubblica sul ru
 
 Queste dinamiche si inscrivono in un contesto in cui la maggioranza degli intervistati nel corso del tempo si dichiara comunque molto o abbastanza informato – il 69% nel campione intervistato Demos&PI e Demetra ad Aprile 2022 – ovvero molto o in parte informato – il 72% nell’indagine IPSOS di marzo.
 
-[Appendice](https://github.com/LucianaFazio/Ucrania/blob/main/PDF_Appendice/VIII.%20Ruolo%20dei%20media.pdf)
+[**APPENDICE**](https://github.com/LucianaFazio/Ucrania/blob/main/PDF_Appendice/VIII.%20Ruolo%20dei%20media.pdf)
