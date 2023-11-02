@@ -25,5 +25,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=pACEaY9ZL8U&t=23s")
+embed_url("https://www.youtube.com/watch?v=pACEaY9ZL8U&t")
 ```
