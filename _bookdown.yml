@@ -1,5 +1,6 @@
 delete_merged_file: true
+poner output_dir: "docs"
 language:
   ui:
-    chapter_name: "Capitolo "
-    appendix_name: "Appendice "
+    chapter_name: "CAPITOLO "
+    appendix_name: "APPENDICE "
