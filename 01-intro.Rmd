@@ -5,7 +5,7 @@
 Nel tentativo di offrire agli studiosi, ai commentatori, ai giornalisti e al pubblico un quadro articolato e preciso della natura degli atteggiamenti dell’opinione pubblica italiana nei confronti della guerra in Ucraina, abbiamo raccolto, in un [*repository* su github](https://github.com/IserniaP/Ukraine-War), le distribuzioni di frequenza delle risposte a tutte le domande poste dai sondaggi condotti in Italia sul tema, tra il febbraio 2022 e il giugno 2023, che siamo riusciti a rintracciare attingendo a fonti disponibili pubblicamente. Durante questo periodo sono state condotte in Italia decine di indagini nelle quali sono state poste centinaia di domande, dirette a sondare
 gli atteggiamenti degli italiani sui più svariati aspetti della guerra in Ucraina.
 
-La convinzione che motiva questa raccolta è che su tematiche controverse come appunto quella in oggetto, accanto ad analisi multivariate delle determinanti individuali degli atteggiamenti, sia particolarmente utile una valutazione aggregata delle opinioni del pubblico. Guardare alla foresta delle domande disponibili, piuttosto che al singolo albero che di essa fa parte, consente di analizzare l’opinione pubblica in maniera più sistematica e sfaccettata, evidenziando la complessita` delle opinioni e cogliendo possibili evoluzioni nel tempo.
+La convinzione che motiva questa raccolta è che su tematiche controverse come appunto quella in oggetto, accanto ad analisi multivariate delle determinanti individuali degli atteggiamenti, sia particolarmente utile una valutazione aggregata delle opinioni del pubblico. Guardare alla foresta delle domande disponibili, piuttosto che al singolo albero che di essa fa parte, consente di analizzare l’opinione pubblica in maniera più sistematica e sfaccettata, evidenziando la complessità delle opinioni e cogliendo possibili evoluzioni nel tempo.
 
 Inoltre, il diverso modo di formulare le domande, frutto degli interessi spesso congiunturali dell’istituto di sondaggio o del committente della ricerca, consente di esplorare con qualche profondità le ragioni alla base degli atteggiamenti degli italiani. Come vedremo, la comparazione tra domande offerte con formulazioni diverse mostra l’importanza che il formato ed il contenuto delle domande hanno su tematiche complesse, caratterizzate da ampi margini di incertezza, nelle quali l’effetto di *framing* esercita una influenza nell’orientare le risposte degli intervistati. Il problema del cosiddetto question *wording*, lungi dall’essere un fattore di disturbo, una dimostrazione del fatto che con i sondaggi “si può far dire di tutto alla gente”, costituisce invece una risorsa preziosa per interpretare cosa abbiano in mente gli intervistati quando rispondono ad una domanda e quali argomenti possono indurli a orientare le loro risposte in una direzione piuttosto che l’altra [@Sudman-Bradburn1974].
 
@@ -23,7 +23,7 @@ settimanale Radar). Nel complesso sono state individuate 931 domande, 511 delle
 quali (il 54,9%) sono state poste una sola volta nel periodo considerato, mentre le altre
 420 sono state poste almeno due volte nel tempo. Come riportato dalla figura 1, cinque
 istituti (IPSOS, SWG, Termometro Politico, EMG e Euromedia Research) hanno posto
-nel tempo più di due terzi delle domande complessive, mentre il resto `e stato chiesto
+nel tempo più di due terzi delle domande complessive, mentre il resto è stato chiesto
 da 23 istituti diversi.
 
 ![](Images/Figura1.png)
