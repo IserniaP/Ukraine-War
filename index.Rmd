@@ -30,4 +30,4 @@ embed_url("https://www.youtube.com/watch?v=pACEaY9ZL8U&t")
 ```
 
 **Come citare il volume**: 
-ISERNIA, P., Cozzi Fucile, C., & Martini, S. (2023, November 14). L’opinione pubblica italiana e la guerra in Ucraina. Retrieved from osf.io/x3dv7
+ISERNIA, Pierangelo, Claudio Cozzi Fucile, and Sergio Martini. 2023. “L’opinione Pubblica Italiana e La Guerra in Ucraina.” OSF Preprints. November 14. osf.io/x3dv7.
