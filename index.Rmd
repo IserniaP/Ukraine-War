@@ -25,14 +25,14 @@ library(vembedr)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, fig.align = "center"}
 embed_url("https://www.youtube.com/watch?v=pACEaY9ZL8U&t")
 ```
 
 **Come citare il volume**: 
 ISERNIA, Pierangelo, Claudio Cozzi Fucile, and Sergio Martini. 2023. “L’opinione Pubblica Italiana e La Guerra in Ucraina.” OSF Preprints. November 14. [osf.io/x3dv7](https://osf.io/x3dv7/)
 
-```{r, echo=FALSE, out.width = "30%", fig.align = "center"}
+```{r, echo=FALSE, out.width = "30%", fig.align = "left"}
 knitr::include_graphics("Images/Cover.png")
 
 ```
