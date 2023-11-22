@@ -40,4 +40,4 @@ knitr::include_graphics("Images/Cover.png")
 
 # Ringraziamenti {-}
 
-Ringraziamo Andrea Scavo (IPSOS), Gabriele Taiuti e gli studenti del corso Scienza dell’opinione pubblica a.a. 2022/2023 (Università di Siena) per il loro contributo durante il processo di raccolta e gestione dei dati. 
+Ringraziamo Andrea Scavo (IPSOS), Gabriele Taiuti e gli studenti del corso di Scienza dell’opinione pubblica a.a. 2022/2023 (Università di Siena) per il loro contributo durante il processo di raccolta e gestione dei dati. Un particolare ringraziamento a Luciana Fazio per il sostegno editoriale che ha reso possibile questo libro.
